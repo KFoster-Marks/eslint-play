@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KFoster-Marks/eslint-play/issues"
   },
-  "homepage": "https://github.com/KFoster-Marks/eslint-play#readme"
+  "homepage": "https://github.com/KFoster-Marks/eslint-play#readme",
+  "devDependencies": {
+    "eslint": "^5.0.1"
+  }
 }
